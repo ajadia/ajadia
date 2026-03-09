@@ -1,5 +1,5 @@
 # 💫 About Me:
-🌿I have done Masters in Computer Applications<br>👑My Current Role is Senior Java tech lead<br>💼I am currently working at OPUS TECHGLOBAL, INDIA.<br>🚀I am having 12+ years of experience building distributed and scalable web applications<br>🛠️I am well versed with J2EE, Multithreading, Spring Boot, AWS, OPENSHIFT, Kafka, Docker..<br>🏋️‍♂️Fun fact -  I do exercise daily, In my dreams<br>
+🌿I have done Masters in Computer Applications<br>👑My Current Role is Senior Java tech lead<br>💼I am currently working at OPUS TECHGLOBAL, INDIA.<br>🚀I am having 12+ years of experience building distributed and scalable web applications<br>🛠️I am well versed with J2EE, Multithreading, Spring Boot, AWS, OPENSHIFT, Kafka, Docker..<br>🚀Hands-on with AI-assisted engineering tools such as GitHub Copilot, NoteBook LLM, ChatGPT, CrewAI, Julius AI, and Google AI Studio to accelerate Java development and solution design.<br>🏋️‍♂️Fun fact -  I do exercise daily, In my dreams<br>
 
 
 ## 🌐 Socials:
